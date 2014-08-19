@@ -26,3 +26,8 @@ A curated list of amazingly awesome awesomeness on javascript ui
  * [PerfBar](http://lafikl.github.io/perfBar/)
 * Animation
  * [AniJS](http://anijs.github.io/)
+* Table
+ * [Handsontable](http://handsontable.com/)
+ * [Datatable](http://www.datatables.net/)
+ * [jqGrid](http://www.trirand.com/blog/)
+ * [SlickGrid](https://github.com/mleibman/SlickGrid)
