@@ -22,3 +22,7 @@ A curated list of amazingly awesome awesomeness on javascript ui
 * Code editor
  * [ace](http://ace.c9.io/#nav=about)
  * [codemirror](http://codemirror.net/)
+* Benchmark
+ * [PerfBar](http://lafikl.github.io/perfBar/)
+* Animation
+ * [AniJS](http://anijs.github.io/)
