@@ -13,9 +13,14 @@ A curated list of amazingly awesome awesomeness on javascript ui
 - [jquery datetimepicker](https://github.com/trentrichardson/jQuery-Timepicker-Addon) - useful picker for jquery and it is single dialog that have a date picker and time picker
 - [rome](https://github.com/bevacqua/rome) - it is no dependency, and simple
 
-## Scroll
+## Scroller
 - [iscroll4](http://cubiq.org/iscroll-4)
 - [fullpage](https://github.com/alvarotrigo/fullPage.js#fullpagejs)
+- [PerfectScrollbar](http://noraesae.github.io/perfect-scrollbar/)
+- [Angular - PerfectScrollbar](https://github.com/itsdrewmiller/angular-perfect-scrollbar)
+- [nanoScroller](http://jamesflorentino.github.io/nanoScrollerJS/)
+- [CustomContentScrollbar](http://manos.malihu.gr/tuts/jquery_custom_scrollbar.html)
+- [Skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop
 
 ## Charts
 - [Charts.js](http://www.chartjs.org/)
@@ -32,6 +37,7 @@ A curated list of amazingly awesome awesomeness on javascript ui
 
 ## Animation
 - [AniJS](http://anijs.github.io/)
+- [Angular - ngFx](https://github.com/Hendrixer/ngFx) - Simple, Beautiful animation library for Angular
 
 ## Table
 - [Handsontable](http://handsontable.com/)
