@@ -16,7 +16,7 @@ A curated list of amazingly awesome awesomeness on javascript ui
 ## Scroller
 - [iscroll4](http://cubiq.org/iscroll-4)
 - [fullpage](https://github.com/alvarotrigo/fullPage.js#fullpagejs)
-- [PerfectScrollbar](http://noraesae.github.io/perfect-scrollbar/)
+- [PerfectScrollbar](http://noraesae.github.io/perfect-scrollbar/) - Tiny but perfect jQuery scrollbar [plugin](http://noraesae.github.io/perfect-scrollbar)
 - [Angular - PerfectScrollbar](https://github.com/itsdrewmiller/angular-perfect-scrollbar)
 - [nanoScroller](http://jamesflorentino.github.io/nanoScrollerJS/)
 - [CustomContentScrollbar](http://manos.malihu.gr/tuts/jquery_custom_scrollbar.html)
