@@ -35,6 +35,7 @@ A curated list of amazingly awesome awesomeness on javascript ui
 - [D3.js](http://d3js.org/)
 - [Highcharts](http://www.highcharts.com/) - commercial library
 - [armcharts](http://www.amcharts.com/) - commercial library
+- [eCharts](http://echarts.baidu.com/index-en.html) - baidu에서 제공하는 무료 차트 라이브러리, High charts와 비교할 수 있을정도로 완성도 높고 잘만들어진 라이브러리. 하지만 실제 사용을 해본 적은 없어서 일단 실무 적용 사례나 실무 경험자 의견이 필요.
 
 ## Code editor
 - [ace](http://ace.c9.io/#nav=about)
