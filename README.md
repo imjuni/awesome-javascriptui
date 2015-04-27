@@ -3,7 +3,7 @@ javascriptui-awesomeness
 
 A curated list of amazingly awesome awesomeness on javascript ui
 
-## Front-end framework
+## CSS framework
  - [Bootstrap](http://getbootstrap.com/) - less, sass support, [wrapstrap](https://wrapbootstrap.com/)
  - [Foundation](http://foundation.zurb.com/) - sass support 
  - [SemanticUI](http://semantic-ui.com/) - less support, many ui widget support but few theme
@@ -11,8 +11,27 @@ A curated list of amazingly awesome awesomeness on javascript ui
  - [UIkit](http://getuikit.com/) - less, sass support
  - [ComparisonDocument](www.sitepoint.com/5-most-popular-frontend-frameworks-compared/)
 
-## Font
+## Framework
+ - [Angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps 
+ - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. 
+
+## Style guide
+
+### Javascript
+- [Airbnb](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [bevacqua](https://github.com/bevacqua/js) - A JavaScript Quality Guide [http://bevacqua.io/](http://bevacqua.io/)
+
+### Angularjs
+- [toddmotto](https://github.com/toddmotto/angularjs-styleguide) - AngularJS styleguide for teams [http://toddmotto.com/](http://toddmotto.com/)
+- [johnpapa](https://github.com/johnpapa/angular-styleguide) - AngularJS style guide, [http://johnpapa.net/](http://johnpapa.net/)
+
+## Build
+- [Gulp](http://gulpjs.com/) -  The streaming build system 
+- [Grunt](http://gruntjs.com/) - The JavaScript TaskRunner
+
+## Font & Icon
  - [Google Font](https://github.com/google/fonts) - Font file available from Google fonts.
+ - [Fontawesome](http://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit
 
 ## Tree
 - [dynatree](https://code.google.com/p/dynatree/) - draggable and available event override tree but it is depreciate
@@ -56,3 +75,6 @@ A curated list of amazingly awesome awesomeness on javascript ui
 - [Datatable](http://www.datatables.net/)
 - [jqGrid](http://www.trirand.com/blog/)
 - [SlickGrid](https://github.com/mleibman/SlickGrid)
+
+## Interaction
+- [dragula](https://github.com/bevacqua/dragula) - Drag and drop so imple it hurts
