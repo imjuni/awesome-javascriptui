@@ -9,7 +9,7 @@ A curated list of amazingly awesome awesomeness on javascript ui
  - [SemanticUI](http://semantic-ui.com/) - less support, many ui widget support but few theme
  - [Pure](http://purecss.io/) - no preprocesstor. Simple and Small
  - [UIkit](http://getuikit.com/) - less, sass support
- - [ComparisonDocument](www.sitepoint.com/5-most-popular-frontend-frameworks-compared/)
+ - [ComparisonDocument](http://www.sitepoint.com/5-most-popular-frontend-frameworks-compared/)
 
 ## Framework
  - [Angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps 
