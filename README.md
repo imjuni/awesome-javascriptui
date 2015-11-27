@@ -32,6 +32,7 @@ A curated list of amazingly awesome awesomeness on javascript ui
 ## Font & Icon
  - [Google Font](https://github.com/google/fonts) - Font file available from Google fonts.
  - [Fontawesome](http://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit
+ - [Ionic Icon](http://ionicons.com/) - Ionic font
 
 ## Tree
 - [dynatree](https://code.google.com/p/dynatree/) - draggable and available event override tree but it is depreciate
